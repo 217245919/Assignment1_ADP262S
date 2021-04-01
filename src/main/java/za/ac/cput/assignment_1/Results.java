@@ -7,7 +7,7 @@ package za.ac.cput.assignment_1;
 
 /**
  *
- * @author Lyle
+ * @author Thulisile Goso - 214321204
  */
 public class Results {
     
