@@ -23,9 +23,6 @@ public class DogTest {
     private Dog dog1;
     private Dog dog2;
     private Dog dog3;
-
-
-
     
     public DogTest() {
     }
